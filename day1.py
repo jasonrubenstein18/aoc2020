@@ -9,4 +9,4 @@ def day1(numbers, target):
         raise ValueError("No solutions exist")
         
 if __name__ == "__main__":
-    subset_sum([...],2020)
+    day1([...],2020)
